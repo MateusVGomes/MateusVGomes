@@ -10,3 +10,10 @@
 <img height="200vh" align="center" src="https://github-readme-stats.vercel.app/api?username=MateusVGomes&show_icons=true&theme=dracula"/>
 <img height="200vh" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVGomes&hide_progress=false"/>
 </div>
+<div>
+<a href='mailto:mateus.vasc.gomes@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href=''></a>
+<a href=''></a>
+
+
+</div>
