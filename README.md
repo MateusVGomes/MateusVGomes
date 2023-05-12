@@ -8,7 +8,7 @@
 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MateusVGomes&show_icons=true&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusVGomes&show_icons=true&theme=dracula"/>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVGomes&hide_progress=false"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVGomes&hide_progress=false"/>
 </div>
