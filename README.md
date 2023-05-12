@@ -4,7 +4,6 @@
 - 🔭 Estou em busca de emprego no momento</br>
 - 🌱 Estou aprendendo React no momento</br>
 - 📫 Contato: mateus.vasc.gomes@gmail.com</br>
-- ⚡ Fun fact: Amo front-end porém não sou </br> bom de design, sou bom em aplicar os designs</br>que me são dados e gerar funções</br>
 </div>
 <div>
 <img height="200vh" align="center" src="https://github-readme-stats.vercel.app/api?username=MateusVGomes&show_icons=true&theme=dracula"/>
