@@ -6,8 +6,9 @@
 - 📫 Contato: mateus.vasc.gomes@gmail.com
 - ⚡ Fun fact: Amo front-end porém não sou bom de design, sou bom em aplicar os designs que me são dados e gerar funções
 
-
-
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusVGomes&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVGomes&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVGomes&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+</div>
